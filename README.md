@@ -9,13 +9,13 @@ This project is my first API using python and its FastAPI framework
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/JeffersonAhimar/my-movie-api.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd my-movie-api
 ```
 
 Install dependencies
